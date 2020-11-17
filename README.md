@@ -1,2 +1,2 @@
 # tsftask
-Prediction based on Decision Tree algorithm
+The Spark Foundation Graduate Rotational Internship Program
